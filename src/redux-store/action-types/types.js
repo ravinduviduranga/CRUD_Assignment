@@ -1,0 +1,1 @@
+export const SEND_DETAILS = 'SEND_DETAILS'
